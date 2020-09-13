@@ -1,0 +1,10 @@
+.toDo-list{
+    .each-toDo{
+        cursor: pointer;
+        
+    }
+    .strike-through{
+        text-decoration: line-through;
+        color:red
+    }
+}
